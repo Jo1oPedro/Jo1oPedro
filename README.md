@@ -48,5 +48,5 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-pedreira-b6228619b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jo1oPedro" height="40" width="40"/></a>
  </div>
   
-![Snake animation](https://github.com/Jo1oPedro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Jo1oPedro/Jo1oPedro/blob/output/github-contribution-grid-snake.svg)
  </div>
