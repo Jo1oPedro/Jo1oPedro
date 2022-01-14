@@ -32,7 +32,7 @@
 </div>
   </br>
   <div>
-     <a href="https://github.com/isa56" alt="Git Graph">
+     <a href="https://github.com/Jo1oPedro" alt="Git Graph">
     <img height="250em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=Jo1oPedro&theme=dracula" />
     </a>
     <br><br>
