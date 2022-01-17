@@ -43,9 +43,9 @@
  
  <div>
   <h1>Contact Me:</h1>
-  <a href="mailto:joao.pedreira@estudante.ufjf.br" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Jo1oPedro" height="50" width="90" /></a>
- <img target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Jo1oPedro" height="50" width="90">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-pedreira-b6228619b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jo1oPedro" height="50" width="90"/></a>
+  <a href="mailto:joao.pedreira@estudante.ufjf.br" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Jo1oPedro" height="40" width="80" /></a>
+ <img target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Jo1oPedro" height="40" width="80">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ferreira-pedreira-b6228619b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jo1oPedro" height="40" width="80"/></a>
  </div>
   
 ![Snake animation](https://github.com/Jo1oPedro/Jo1oPedro/blob/output/github-contribution-grid-snake.svg)
