@@ -6,9 +6,8 @@
 </div>
 
 <p>
-- 🔭 I’m currently working at <a href="https://codejr.com.br/">Code Empresa Júnior</a>
-- 🌱 I’m currently learning Laravel
-- 😄 Pronouns: ele/dele
+- I’m currently working at <a href="https://codejr.com.br/">Code Empresa Júnior</a>
+- I’m currently learning Laravel
 </p>
 
 <div>
