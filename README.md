@@ -7,7 +7,8 @@
 
 <p>
 - I’m currently working at <a href="https://codejr.com.br/">Code Empresa Júnior</a>
-- I’m currently learning PHP/Laravel
+- I’m also working at <a href="https://sistemaswl.com.br/">SWL</a>
+- I’m currently learning PHP/Laravel/Symfony
 </p>
 
 <div>
