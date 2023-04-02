@@ -6,9 +6,7 @@
 </div>
 
 <p>
-- I’m currently working at <a href="https://codejr.com.br/">Code Empresa Júnior</a>
-<br>
-- I’m also working at <a href="https://www.oruc.com.br/">ORUC</a>
+- I’m currently working at <a href="https://www.oruc.com.br/">ORUC</a>
 <br>
 - I’m currently learning PHP/Laravel/Symfony
 </p>
