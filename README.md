@@ -8,14 +8,14 @@
  <p>
  - I’m currently working at Virtù Saúde
  <br>
- - I’m currently learning PHP/Laravel/Symfony
+ - I’m currently learning PHP/Laravel/Symfony/Nuxt
  </p>
  
  </br>
  <div>
    <h1>Programing Languages:</h1>
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://nuxt.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" alt="php" width="40" height="40"/> </a>
  </div>
  </br>
  
